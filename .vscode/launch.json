@@ -1,0 +1,497 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch DuplicateCharacter",
+            "request": "launch",
+            "mainClass": "practice.DuplicateCharacter",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sort",
+            "request": "launch",
+            "mainClass": "practice.Sort",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "Launch GeekOncci",
+            "request": "launch",
+            "mainClass": "geekforgeeks.GeekOncci",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaximmizeModuloProblem",
+            "request": "launch",
+            "mainClass": "hackerearth.MaximmizeModuloProblem",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "name": "g++.exe - Build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++.exe build active file"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array",
+            "request": "launch",
+            "mainClass": "practice.Array",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "Launch StoneSequence",
+            "request": "launch",
+            "mainClass": "practice.StoneSequence",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberChoice",
+            "request": "launch",
+            "mainClass": "practice.NumberChoice",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "Launch GoogleInterview",
+            "request": "launch",
+            "mainClass": "practice.GoogleInterview",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - isBalanCedParantheses",
+            "request": "launch",
+            "mainClass": "HackerRank.isBalanCedParantheses",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PalindromeString",
+            "request": "launch",
+            "mainClass": "practice.PalindromeString",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SieveOfEratosthenes",
+            "request": "launch",
+            "mainClass": "practice.SieveOfEratosthenes",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "HackerRank.Main",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InheriSolution",
+            "request": "launch",
+            "mainClass": "HackerRank.InheriSolution",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortingComprator",
+            "request": "launch",
+            "mainClass": "HackerRank.SortingComprator",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SwapAdjacent",
+            "request": "launch",
+            "mainClass": "geekforgeeks.SwapAdjacent",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeSet1",
+            "request": "launch",
+            "mainClass": "DemoCollection.TreeSet1",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Queue",
+            "request": "launch",
+            "mainClass": "DemoCollection.Queue",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortrdSet",
+            "request": "launch",
+            "mainClass": "DemoCollection.SortrdSet",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListIteratr",
+            "request": "launch",
+            "mainClass": "DemoCollection.ListIteratr",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayListExp",
+            "request": "launch",
+            "mainClass": "DemoCollection.ArrayListExp",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Vector1",
+            "request": "launch",
+            "mainClass": "DemoCollection.Vector1",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Linked",
+            "request": "launch",
+            "mainClass": "DemoCollection.Linked",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - wordsFrequency",
+            "request": "launch",
+            "mainClass": "practice.wordsFrequency",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - substring4",
+            "request": "launch",
+            "mainClass": "HackerRank.substring4",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaximumDisttance",
+            "request": "launch",
+            "mainClass": "hackerearth.MaximumDisttance",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinimumCost",
+            "request": "launch",
+            "mainClass": "hackerearth.MinimumCost",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Reverse32bitBInary",
+            "request": "launch",
+            "mainClass": "hackerearth.Reverse32bitBInary",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarytoDecimal",
+            "request": "launch",
+            "mainClass": "hackerearth.BinarytoDecimal",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - temp",
+            "request": "launch",
+            "mainClass": "hackerearth.temp",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ShortestCommon",
+            "request": "launch",
+            "mainClass": "geekforgeeks.ShortestCommon",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - password",
+            "request": "launch",
+            "mainClass": "DataStrucutres.password",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GFG",
+            "request": "launch",
+            "mainClass": "DataStrucutres.GFG",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Zoo",
+            "request": "launch",
+            "mainClass": "hackerearth.Zoo",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringpairDMK",
+            "request": "launch",
+            "mainClass": "hackerearth.StringpairDMK",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringPairDmk",
+            "request": "launch",
+            "mainClass": "hackerearth.StringPairDmk",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FactorOf3",
+            "request": "launch",
+            "mainClass": "hackerearth.FactorOf3",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringPair",
+            "request": "launch",
+            "mainClass": "hackerearth.StringPair",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ModularMultiplicativeInverse",
+            "request": "launch",
+            "mainClass": "geekforgeeks.ModularMultiplicativeInverse",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "HackerRank.Solution",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GFG",
+            "request": "launch",
+            "mainClass": "DemoCollection.GFG",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AlternateString",
+            "request": "launch",
+            "mainClass": "HackerRank.AlternateString",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo1",
+            "request": "launch",
+            "mainClass": "HackerRank.Demo1",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IsPrinmeno",
+            "request": "launch",
+            "mainClass": "practice.IsPrinmeno",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ActiveTrader",
+            "request": "launch",
+            "mainClass": "HackerRank.ActiveTrader",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Printer",
+            "request": "launch",
+            "mainClass": "HackerRank.Printer",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrimeFibonnaci",
+            "request": "launch",
+            "mainClass": "hackerearth.PrimeFibonnaci",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hashset",
+            "request": "launch",
+            "mainClass": "DemoCollection.Hashset",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstOccurrence",
+            "request": "launch",
+            "mainClass": "hackerearth.FirstOccurrence",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayDemo",
+            "request": "launch",
+            "mainClass": "DemoCollection.ArrayDemo",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PalidromicSum",
+            "request": "launch",
+            "mainClass": "PalidromicSum",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayOperation",
+            "request": "launch",
+            "mainClass": "HackerRank.ArrayOperation",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - trycatchg",
+            "request": "launch",
+            "mainClass": "HackerRank.trycatchg",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - trycatch",
+            "request": "launch",
+            "mainClass": "HackerRank.trycatch",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InfytqPermutation",
+            "request": "launch",
+            "mainClass": "Collection.InfytqPermutation",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaxDifference",
+            "request": "launch",
+            "mainClass": "HackerRank.MaxDifference",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StockMerchant",
+            "request": "launch",
+            "mainClass": "HackerRank.StockMerchant",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DecimalToBinary",
+            "request": "launch",
+            "mainClass": "DecimalToBinary",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayDemo",
+            "request": "launch",
+            "mainClass": "Collection.ArrayDemo",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bigDecimal",
+            "request": "launch",
+            "mainClass": "bigDecimal",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bigInteger",
+            "request": "launch",
+            "mainClass": "bigInteger",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Powerpuff",
+            "request": "launch",
+            "mainClass": "Powerpuff",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - perfectSquare",
+            "request": "launch",
+            "mainClass": "perfectSquare",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Demo<Visual code_fa4c6988>",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Hello<Visual code_fa4c6988>",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<Visual code_fa4c6988>",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Visual code_fa4c6988"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Sort<Visual code_fa4c6988>",
+            "request": "launch",
+            "mainClass": "Sort",
+            "projectName": "Visual code_fa4c6988"
+        }
+    ]
+}
